@@ -14,14 +14,20 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The collection consists of digitized Chicano periodicals produced across the United States
+during the 1960s and 1970s, including newspapers, newsletters, magazines, and zines that vary
+in format, layout, language (Spanish, English, and Spanglish), and production quality. The primary users of
+this collection include scholars, students, community researchers, and digital humanists who
+seek to trace the geographic spread of Chicano activism, compare regional differences in
+political discourse, identify organizational networks, and access creative expressions embedded
+within periodicals. To support these uses, the metadata must enable multiple forms of discovery,
+including browsing by location (city and state), date and decade, publication title, creator,
+format, language, and thematic subject matter such as labor, education, and identity.
+The metadata allows users to map Chicano print culture beyond the American
+Southwest, retrieve items despite inconsistent naming conventions, distinguish between original
+print objects and digital surrogates, filter by media type and format, and clearly understand
+rights and reuse conditions. These requirements directly respond to the collection’s organizing
+challenges, particularly the instability of terms such as “Chicano,” “Latino,” and “Hispanic,” and
+the uneven quality and structure of existing metadata across repositories, necessitating a
+schema that is both standardized and flexible enough to accommodate ambiguity while still
+supporting meaningful discovery and analysis.
