@@ -19,6 +19,7 @@ political discourse, identify organizational networks, and access creative expre
 within periodicals. To support these uses, the metadata must enable multiple forms of discovery,
 including browsing by location (city and state), date and decade, publication title, creator,
 format, language, and thematic subject matter such as labor, education, and identity.
+
 The metadata allows users to map Chicano print culture beyond the American
 Southwest, retrieve items despite inconsistent naming conventions, distinguish between original
 print objects and digital surrogates, filter by media type and format, and clearly understand
